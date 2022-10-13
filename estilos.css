@@ -1,0 +1,89 @@
+body {
+  margin: 0px;
+  /* background-color: rgb(247, 231, 141); */
+ 
+  
+ 
+}
+ /* CABEZA */
+.cajaarriba {
+  background-color: goldenrod;
+  box-shadow: inset 0px -26px 79px -8px rgba(0, 0, 0, 0.58); 
+}
+.cabeza {
+ display: flex;
+ justify-content: center;
+ align-self: center;
+ justify-content: space-between;
+ margin-bottom: -22px;
+
+ 
+  
+}
+.plusuno {
+  background-color: goldenrod;
+  margin-bottom: -50px;
+ 
+}
+
+.iconocontacto i {
+  margin: 40px 0px 0px 100px;
+font-size: 40px;
+color:black;
+
+}
+.iconocontacto i:hover{
+color: blue;
+
+}
+.logo  {
+ text-align: center;
+}
+.logo img {
+  
+  width: 30%;
+  border-radius: 70px;
+ 
+}
+.iconoubicacion i:hover{
+  color: blue;
+  
+  }
+.iconoubicacion i {
+  margin: 40px 100px 0px 0px;
+  font-size: 40px;
+  color: black;
+  
+  /* color: rgb(247, 212, 15); */
+  }
+.plusuno {
+  text-align: center;
+}
+
+/* CABEZA */
+.cuerpo {
+  background-color: goldenrod;
+  /* box-shadow: inset 0px -26px 79px -8px rgba(0, 0, 0, 0.58); */
+}
+.cuadrouno {
+  display: flex;
+  text-align: center;
+  margin-top: 50px;
+}
+.imagenentrada {
+  margin-top: 20px;
+  width: 50%;
+}
+.imagenentrada img{
+  width:80%;
+  border-radius: 50px;
+}
+.comentarioentrada {
+  display: flex;
+  width: 50%;
+ justify-content: center; 
+ align-self: center;
+ font-size: 25px;
+ margin-top: -40px;
+ 
+}
